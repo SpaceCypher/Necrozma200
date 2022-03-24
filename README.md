@@ -1,11 +1,6 @@
 # Hi 
 <p>My name is Sanidhya aka Necrozma</p>
 
-##Know more about me!
-###16 y/o
-###Keyboard enthusiast 
-
-
 ## Languages and Tools:
 **Programming Languages**
 
