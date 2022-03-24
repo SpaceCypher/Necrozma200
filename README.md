@@ -1,17 +1,17 @@
-## Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+# Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  My name is SpaceBar also called as Necrozma.
 
 ## Know more about me!
-- 👨🏽‍💻 I’m currently working on open sourcing my bot 
-- Python is Love
-- 🙋🏻‍♂️Available for hire
-- 💬 Reach me out at discord my id is : Spacebar#0101
+###16 y/o
+###Keyboard enthusiast 
 
 
 ## Languages and Tools:
 **Programming Languages**
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img title="JS" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+
 
 **Databases**
 
